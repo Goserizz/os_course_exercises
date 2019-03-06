@@ -19,3 +19,5 @@ _book
 *~
 backup
 build
+all/.DS_Store
+.DS_Store
